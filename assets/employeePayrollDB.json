@@ -1,0 +1,52 @@
+{
+  "EmployeePayrollDB": [
+    {
+      "id": 1,
+      "name": "Mark",
+      "gender": "male",
+      "departments": [
+        "Engineer",
+        "Finance"
+      ],
+      "salary": "500000",
+      "note": "All In One",
+      "profile": "../assets/Ellipse -3.png"
+    },
+    {
+      "name": "Amarpa Shashanka Keerthi Kumar",
+      "gender": "female",
+      "departments": [
+        "Sales"
+      ],
+      "salary": "400000",
+      "note": "",
+      "profile": "../assets/Ellipse -1.png",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Rocky",
+      "gender": "male",
+      "departments": [
+        "Others",
+        "Sales"
+      ],
+      "salary": "38100",
+      "notes": "yo",
+      "profile": "..\\assets\\Ellipse 1.png"
+    },
+    {
+      "id": 5,
+      "name": "Kavya",
+      "gender": "female",
+      "departments": [
+        "Finance",
+        "HR",
+        "Engineer"
+      ],
+      "salary": "1234",
+      "notes": "aqw",
+      "profile": "..\\assets\\Ellipse -8.png"
+    }
+  ]
+}
