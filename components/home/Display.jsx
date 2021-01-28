@@ -15,19 +15,7 @@ class Display extends React.Component {
     this.employeeService = new EmployeeService();
 }
 
-getProfilePic = (profile) => {
-    let index = profile.split("-")[2].split(".")[0];
-    switch (index) {
-      case "1":
-        return profile1;
-      case "2":
-        return profile2;
-      case "3":
-        return profile3;
-      case "4":
-        return profile4;
-    }
-};
+
 
 remove = (employeeObject) => {
     this.props.deleteEmployee(employeeObject);
